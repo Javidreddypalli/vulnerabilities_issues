@@ -1,0 +1,2 @@
+pydash==4.8.0  # vulnerable version
+Flask==0.12    # old Flask with known issues
