@@ -8,5 +8,6 @@ def run():
     cmd = request.args.get("cmd")
     os.system(cmd)  # Insecure code: command injection
     return "Done"
-
-
+def example():
+    print("Super")
+    
